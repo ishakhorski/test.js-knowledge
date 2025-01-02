@@ -1,4 +1,4 @@
-# TestTask.Javascript
+# Frontend Developer Assesment
 
 Please spend no more than a couple hours working through the problems below. Return code back to us in
 whatever way is most convenient for you.
